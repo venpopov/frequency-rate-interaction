@@ -1,6 +1,6 @@
 This repository contains experimental software, data and analysis code for the results reported in:
 
-Popov, V., So, M. & Reder, L. (2018). Word frequency affects binding probability not memory precision. PsyArXiv.
+Popov, V., So, M. & Reder, L. (2020). Word frequency affects binding probability not memory precision. PsyArXiv.
 
 The code runs with paths relative to the parent folder, which is set-up in every script by the here() package and the setwd(here()) command, which finds the .Rproj file and sets that as the working dir.
 
